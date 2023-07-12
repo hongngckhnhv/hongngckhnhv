@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khanh Vo Hoang Ngoc 
+- 👋 Hi, I’m Hoang Ngoc Khanh Vo
 - 🌱 I’m currently learning Data Communication and Computer Networks 
 - 💞️ hmmm do you like Korean music? You know Kim Taeyeon?, if you know, then we have something in common=))).. Well, that's my idol 
 <!---
